@@ -1,0 +1,38 @@
+html {
+  background: url("img/background2.jpg") no-repeat center fixed;
+  background-size: cover;
+
+
+}
+
+body {
+
+
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+
+.about {
+  background-color: rgba(255, 255, 255, 0.8);
+border: 1px solid red;
+border-radius: 15px;
+width: 600px;
+margin: 25px auto;
+padding: 25px 150px 50px;
+}
+.nav a {
+  margin: 0px 25px;
+}
+
+.orange{
+  color: white
+}
+
+.purple{
+  color: black;
+}
+
+button {
+width: 100px;
+height: 40px;
+}
